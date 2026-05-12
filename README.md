@@ -42,9 +42,10 @@ shadcn-ui: High-quality accessible components.
 Tailwind CSS: Utility-first CSS framework.
 
 Deployment & Domain
-The project is optimized for deployment at www.zubiedy.com. To publish changes, ensure your build files are synced with your hosting provider.
+The project is optimized for deployment at https://onehostbd.com and [ netlify.com.](https://www.netlify.com/) hosting.
+To publish changes, ensure your build files are synced with your hosting provider.
 
 For custom domain configuration, please refer to your DNS provider's settings to point to the production server.
 
 Contact & Support
-Developed and maintained by Zubair Online. For further inquiries,HELP : visit/contact www.zubiedonline.top 
+Developed and maintained by Zubied Online. For further inquiries,HELP,edit : visit/contact www.zubiedonline.top 
